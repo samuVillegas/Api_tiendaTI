@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "2c1d2b19-bec8-4917-8f21-b9ce149c9884",
+      "title": "PARLANTES USB CONSMO M600",
+      "description": "Parlante Usb/estereo CONSMO Ref: M600 Ideal En Oficina Y Hogar",
+      "precio": "19.700",
+      "img": "https://www.consmopcmayorista.com/wp-content/uploads/2020/09/Diseno-sin-titulo-1-2-100x100.png"
+    },
+    {
+      "id": "6eca6493-fede-46bf-9277-bcded2db9356",
+      "title": "Cargador Lenovo 20V 3.25A LEN-05P",
+      "description": "Con cable Plano, Empaque de Lujo, Calidad AAA y DC: USB",
+      "precio": "20.800",
+      "img": "https://www.consmopcmayorista.com/wp-content/uploads/2020/09/caja-cargador-100x100.png"
+    },
+    {
+      "id": "977c3a78-b346-4ef1-92dc-8ed55fe5b504",
+      "title": "DIADEMA MULTIMEDIA PARA PC CON MICROFONO CONSMO JD-750",
+      "description": "DIADEMA MULTIMEDIA PARA PC CON MICROFONO CONSMO JD-750",
+      "precio": "25.500",
+      "img": "https://www.consmopcmayorista.com/wp-content/uploads/2020/09/Diseno-sin-titulo-6-100x100.png"
+    },
+    {
+      "id": "94f59de8-dd8a-4d88-9c82-93b5cbcfb9b7",
+      "title": "Cargador Apple 16.5V3.65A AP-01P",
+      "description": "Con cable Plano, Empaque de Lujo, Calidad AAA y  DC:60W-L",
+      "precio": "75.000",
+      "img": "https://www.consmopcmayorista.com/wp-content/uploads/2020/09/1104-100x100.png"
+    }
+  ]
+}
